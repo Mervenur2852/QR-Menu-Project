@@ -4,7 +4,7 @@ const fetchMenu = async () => {
   //api den gelen verileri js nesnesine çevirir
   const data = await res.json();
 
-  // datayı return et
+  // datanın içindeki menüye return et return et
 
   return data.menu;
 };
