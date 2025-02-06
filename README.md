@@ -13,3 +13,10 @@ Fully Responsive Design
 -CSS3  <br/>
 -JavaScript  <br/>
 -API  <br/>
+# 📸 Screenshot
+
+![gif](https://github.com/user-attachments/assets/594e38da-9e11-4895-acdc-18ca20fcc952)
+
+# 📧contact
+mervegecici8@gmail.com <br/>
+www.linkedin.com/in/mervenur-aydın
